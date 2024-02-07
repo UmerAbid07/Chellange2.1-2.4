@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class ScoreMangaer : MonoBehaviour
 {
-    static float scoreIndex = 0;
-    static float starIndex = 0;
+    float scoreIndex = 0;
+    float starIndex = 0;
     static bool score = false;
     
     // Start is called before the first frame update
